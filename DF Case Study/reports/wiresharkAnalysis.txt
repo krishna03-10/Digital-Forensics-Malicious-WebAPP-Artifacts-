@@ -1,0 +1,28 @@
+Wireshark Traffic Analysis - 17ebook.com
+=======================================
+Capture Duration: [Time period]
+Filter Applied: "http contains 17ebook.com"
+
+Key Findings:
+------------
+1. HTTP Traffic:
+   - Requests to 17ebook.com: [Number]
+   - Responses: [Number] (302 redirects observed)
+   - Redirect chain: 17ebook.com → ww5.17ebook.com
+
+2. Suspicious Activity:
+   - [Any unusual ports]
+   - [Unencrypted data transfers]
+   - [Malicious payloads if found]
+
+3. IP Addresses:
+   - Primary server: 208.91.196.152
+   - Secondary: 76.223.26.96, 13.248.148.254
+
+Packet Details:
+--------------
+[Include sample packet details with timestamps]
+
+Security Assessment:
+-------------------
+[Potential risks identified from traffic patterns]

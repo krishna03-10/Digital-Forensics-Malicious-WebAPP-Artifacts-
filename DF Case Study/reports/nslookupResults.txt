@@ -1,0 +1,22 @@
+DNS Lookup Results - 17ebook.com
+===============================
+Command Executed: nslookup 17ebook.com
+
+Output:
+-------
+Server:     192.168.160.65
+Address:    192.168.160.65#53
+
+Non-authoritative answer:
+Name:   17ebook.com
+Address: 208.91.196.152
+
+Additional Records:
+-----------------
+[If MX or other records were checked, include here]
+
+DNS Configuration Analysis:
+-------------------------
+- TTL values: [If available]
+- Nameservers: [If checked]
+- DNS security: [DNSSEC status if available]

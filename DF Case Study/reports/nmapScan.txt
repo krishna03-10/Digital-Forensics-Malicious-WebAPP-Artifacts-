@@ -1,0 +1,34 @@
+Nmap Security Scan - 17ebook.com
+===============================
+Command: nmap -sV --script=http-vuln-cve2017-5638 17ebook.com
+Scan Time: [Date/Time]
+
+Host Status:
+-----------
+Host: 17ebook.com (208.91.196.152)
+Status: Up (0.40s latency)
+
+Open Ports:
+----------
+PORT    STATE SERVICE  VERSION
+53/tcp  open  domain?
+80/tcp  open  http     Apache httpd
+443/tcp open  ssl/http OpenResty web app server
+
+Service Details:
+---------------
+- Port 80:
+  - Server: Apache httpd
+  - Notes: Problem with XML parsing of /evox/about
+- Port 443:
+  - Server: OpenResty
+  - Header: openresty
+
+Vulnerability Scan Results:
+-------------------------
+http-vuln-cve2017-5638:
+[State whether Apache Struts vulnerability was found]
+
+Security Recommendations:
+------------------------
+[Based on open ports and services]

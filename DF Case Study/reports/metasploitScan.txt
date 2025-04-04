@@ -1,0 +1,28 @@
+Metasploit Vulnerability Scan - 17ebook.com
+==========================================
+Module Used: auxiliary/scanner/http/http_version
+RHOSTS: 17ebook.com
+RPORT: 80
+Timestamp: [Date/Time]
+
+Scan Results:
+------------
+[+] 208.91.196.152:80 Apache (302-//ww6.17ebook.com)
+
+Service Identification:
+----------------------
+- Web Server: Apache
+- Redirect Target: ww6.17ebook.com
+- HTTP Status: 302 Found
+
+Vulnerability Assessment:
+------------------------
+- Potential vulnerabilities:
+  - [List any identified from version]
+- Recommended further tests:
+  - http-vuln-* modules
+  - SSL testing if applicable
+
+Follow-up Actions:
+-----------------
+[Suggest next steps based on findings]

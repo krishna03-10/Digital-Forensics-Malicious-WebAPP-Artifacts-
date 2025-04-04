@@ -1,0 +1,37 @@
+theHarvester OSINT Report - 17ebook.com
+=======================================
+Command: theHarvester -d 17ebook.com -b all
+Date: [Date]
+
+Discovered Subdomains:
+---------------------
+1. www1.17ebook.com
+2. www2.17ebook.com
+3. www5.17ebook.com 
+4. www6.17ebook.com
+5. www7.17ebook.com
+[... list all significant subdomains ...]
+
+IP Addresses:
+------------
+[Top 10 most relevant from the 55 found]
+1. 208.91.196.152
+2. 76.223.26.96
+3. 13.248.148.254
+[...]
+
+ASN Information:
+---------------
+1. AS16509 - [Provider Name]
+2. AS40034 - [Provider Name] 
+3. AS47846 - [Provider Name]
+
+Interesting URLs:
+---------------
+1. http://17ebook.com/?pid=9POSTR8CA
+2. http://17ebook.com/?pid=9P0GV73V5
+[...]
+
+Analysis:
+--------
+[Patterns in subdomains, geographic distribution of IPs, etc.]

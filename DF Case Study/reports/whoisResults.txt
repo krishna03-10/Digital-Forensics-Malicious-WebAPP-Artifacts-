@@ -1,0 +1,39 @@
+WHOIS Domain Report - 17ebook.com
+================================
+Registration Date: [Date]
+Expiration Date: [Date]
+Updated Date: [Date]
+
+Registrar Information:
+---------------------
+Name: [Registrar Name]
+IANA ID: [If available]
+URL: [Registrar URL]
+
+Registrant Contact:
+------------------
+Name: [If not redacted]
+Organization: [If available]
+Email: [If not redacted]
+Phone: [If available]
+Country: [Country code]
+
+Administrative Contact:
+----------------------
+[Same details as above if different]
+
+Technical Contact:
+-----------------
+[Same details as above if different]
+
+Name Servers:
+------------
+[List all name servers]
+
+Domain Status:
+-------------
+[Active/Inactive/Other status codes]
+
+Additional Notes:
+----------------
+[Any suspicious patterns in registration]
